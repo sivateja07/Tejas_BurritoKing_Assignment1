@@ -38,3 +38,6 @@ Once compilation is complete, launch the program by invoking the Java interprete
 Upon initiation, the program will present users with a clear and intuitive menu interface.
 Navigate through the menu by selecting options corresponding to the desired action (e.g., ordering, updating prices, generating reports).
 Follow the on-screen prompts to seamlessly interact with the program and fulfill various tasks.
+
+$ javac BurritoKing.java Restaurant.java FoodItem.java Meal.java
+$ java BurritoKing
